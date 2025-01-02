@@ -1,7 +1,7 @@
 About pyprobe-feedstock
 =======================
 
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/pyprobe-feedstock/blob/main/LICENSE.txt)
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/tmpmbz3xi6j-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/Protinon/PyProbe
 
@@ -15,8 +15,8 @@ Current build status
 
 <table><tr><td>All platforms:</td>
     <td>
-      <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=10159&branchName=main">
-        <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyprobe-feedstock?branchName=main">
+      <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=None&branchName=main">
+        <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/tmpmbz3xi6j-feedstock?branchName=main">
       </a>
     </td>
   </tr>
